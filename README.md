@@ -9,4 +9,5 @@
  * [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
  * [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)  Companies that don't have a broken hiring process.
  * [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)   awesome programming cheatsheet.
+ * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) Yet another resource for collecting articles, videos etc. regarding functional programming.
 
