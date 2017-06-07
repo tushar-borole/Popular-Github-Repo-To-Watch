@@ -12,4 +12,7 @@
  * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) Yet another resource for collecting articles, videos etc. regarding functional programming.
  * [free-programming-books](https://github.com/vhf/free-programming-books) Freely available programming books.
  * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript..
+  * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  Some useful websites for programmers.
+ 
+ 
 
