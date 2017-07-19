@@ -13,6 +13,8 @@
  * [free-programming-books](https://github.com/vhf/free-programming-books) Freely available programming books.
  * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript..
   * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  Some useful websites for programmers.
- 
+  * [2017-talks](https://github.com/gophercon/2017-talks)  Slides and links for 2017 talks.
+  * [project-guidelines](https://github.com/wearehive/project-guidelines) A set of best practices for JavaScript projects.
+  * [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)  A curated list of high quality coding style conventions and standards..
  
 
