@@ -16,6 +16,7 @@
   * [2017-talks](https://github.com/gophercon/2017-talks)  Slides and links for 2017 talks.
   * [project-guidelines](https://github.com/wearehive/project-guidelines) A set of best practices for JavaScript projects.
   * [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)  A curated list of high quality coding style conventions and standards..
+  * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) Materials to help you rock your next coding interview
  
 
 
